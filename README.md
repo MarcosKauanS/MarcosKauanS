@@ -1,36 +1,37 @@
-# Olá! Eu sou o Marcos Kauan S. 👋
+# Marcos Kauan
 
-Sou Desenvolvedor Full Stack apaixonado por criar soluções eficientes, código limpo e sempre buscando aprender novas tecnologias.  
-Entusiasta do desenvolvimento colaborativo, focado em entregar soluções que geram impacto real.
-
-## 🚀 Tecnologias e ferramentas
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05440?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## 📂 Projetos em destaque
-
-## 📫 Como me encontrar
+Systems & Security Software Engineer  
+Focusing on Modern C++ (C++20), Windows Internals, and Runtime Instrumentation.
 
 ---
 
-Sempre aprendendo e buscando novas tecnologias para aprimorar minhas habilidades.  
-Obrigado por visitar meu perfil! Vamos criar coisas incríveis juntos! 🚀
+### Overview
 
-###
+Software engineer with a systems-first approach. Experienced in designing low-latency, user-mode execution runtimes, native memory manipulation, and telemetry infrastructure operating under real-world constraints.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosKauanS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosKauanS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- **Low-Level Systems:** Portable Executable (PE) in-memory parsing, manual relocation, Import Address Table (IAT) resolution, and dynamic API hooking.
+- **Runtime Interoperability:** Native Java Native Interface (JNI) integration, JVM internal structures, and real-time network protocol instrumentation.
+- **Machine Learning & Signal Analysis:** Real-time statistical feature extraction (timing jitter, frequency distributions) and classification models (Random Forest) for behavioral analysis.
+- **System Architecture:** Clean separation of native performance cores (C++), isolated user interfaces (WebView2), and serverless telemetry pipelines.
 
-###
+---
+
+### Selected Systems & Metrics
+
+- **In-Memory PE Loader & Runtime (C++20)**  
+  Architected an in-memory execution pipeline eliminating disk artifacts via custom PE mapping and runtime relocation. Integrated an isolated UI bridge decoupled from host game memory.
+
+- **Global Telemetry & Distribution Infrastructure (Edge)**  
+  Designed serverless routing and telemetry services handling 8,000+ monthly requests across 30+ global edge nodes. Maintained sub-millisecond execution times (<500µs CPU) and a 0% failure rate.
+
+- **Hybrid AntiCheat Engine (Java / Python)**  
+  Engineered a behavioral detection framework combining packet-level kinematic trajectory analysis with sub-millisecond Random Forest inference for real-time automated input classification.
+
+---
+
+### Technical Focus
+
+- **Languages:** C++20, Java, C, TypeScript, Python, x86/x64 Assembly
+- **Systems & Internals:** Win32 API, Memory Virtualization, JNI, JVM Internals
+- **Analysis & Diagnostics:** x64dbg, Ghidra, Wireshark, CMake, Git
+- **Infrastructure & Services:** Cloudflare Workers, Node.js, WebSockets, REST
