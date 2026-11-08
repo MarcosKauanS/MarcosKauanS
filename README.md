@@ -1,13 +1,11 @@
-# Marcos Kauan
-
-Systems & Security Software Engineer  
-Focusing on Modern C++ (C++20), Windows Internals, and Runtime Instrumentation.
+### Systems & Security Software Engineer
+Specializing in Modern C++ (C++20), Windows Internals, and Runtime Instrumentation.
 
 ---
 
 ### Overview
 
-Software engineer with a systems-first approach. Experienced in designing low-latency, user-mode execution runtimes, native memory manipulation, and telemetry infrastructure operating under real-world constraints.
+Software engineer with a systems-first approach. Experienced in designing low-latency user-mode execution runtimes, native memory manipulation, and telemetry infrastructure operating under real-world constraints.
 
 - **Low-Level Systems:** Portable Executable (PE) in-memory parsing, manual relocation, Import Address Table (IAT) resolution, and dynamic API hooking.
 - **Runtime Interoperability:** Native Java Native Interface (JNI) integration, JVM internal structures, and real-time network protocol instrumentation.
