@@ -14,10 +14,10 @@ Software developer with a systems-first approach. Experienced in designing low-l
 
 ---
 
-### Selected Systems & Metrics
+### Selected Systems & Architecture Case Studies
 
-- **In-Memory PE Loader & Runtime (C++20)**  
-  Architected an in-memory execution pipeline eliminating disk artifacts via custom PE mapping and runtime relocation. Integrated an isolated UI bridge decoupled from host game memory.
+- **[In-Memory PE Runtime & Integrity Protection Engine (C++20)](https://github.com/MarcosKauanS/inmemory-pe-runtime)**  
+  Architected an in-memory execution pipeline eliminating disk artifacts via custom PE mapping, base relocations, and manual IAT resolution. Hardened against reverse engineering and symbolic solvers (MBA/ASE) with sub-500µs edge telemetry.
 
 - **Global Telemetry & Distribution Infrastructure (Edge)**  
   Designed serverless routing and telemetry services handling 8,000+ monthly requests across 30+ global edge nodes. Maintained sub-millisecond execution times (<500µs CPU) and a 0% failure rate.
