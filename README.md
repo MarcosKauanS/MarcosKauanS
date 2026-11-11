@@ -23,7 +23,7 @@ Software developer with a systems-first approach. Experienced in designing low-l
   Engineered a zero-dependency server-side anomaly detection engine. Transpiled an 11-dimensional Random Forest classifier (0.8890 ROC-AUC) directly into native JVM conditional bytecode, executing evaluations in ~420ns with zero heap allocations.
 
 - **[High-Throughput World Mutation & Ephemeral Runtime Engine (JVM)](https://github.com/MarcosKauanS/spatial-mutation-runtime)**  
-  Engineered a low-latency spatial reconstruction engine bounding bulk block mutations to deterministic time slices (1,000 blocks/tick) to maintain 20.0 TPS. Features in-memory world cloning (SWM), analytical parametric raycasting (<100ns), and FIFO serialized database draining.
+  Engineered a low-latency spatial reconstruction engine bounding bulk block mutations to deterministic time slices (1,000 blocks/tick) to maintain 20.0 TPS. Features in-memory world cloning, analytical parametric raycasting (<100ns), and FIFO serialized database draining.
 
 - **Global Telemetry & Distribution Infrastructure (Edge)**  
   Designed serverless routing and telemetry services handling 8,000+ monthly requests across 30+ global edge nodes. Maintained sub-millisecond execution times (<500µs CPU) and a 0.00% operational error rate.
