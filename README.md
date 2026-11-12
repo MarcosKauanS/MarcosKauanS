@@ -33,3 +33,14 @@ Software developer with a systems-first approach. Experienced in designing low-l
 - **Systems & Internals:** Win32 API, Memory Virtualization, JNI, JVM Internals, Netty
 - **Analysis & Diagnostics:** x64dbg, Ghidra, Wireshark, CMake, Git
 - **Infrastructure & Services:** Cloudflare Workers, Node.js, WebSockets, REST
+
+---
+
+### Contact & Collaboration
+
+Available for select international contracts, systems consulting, and high-throughput runtime architecture.
+
+- **Email:** [soares.marcos.kauan@gmail.com](mailto:soares.marcos.kauan@gmail.com)
+- **Timezone:** Brazil (UTC-3 / Aligned with US East Coast EST)
+- **Model:** 100% Asynchronous & Text-Driven (Slack, Discord, GitHub PRs)
+
