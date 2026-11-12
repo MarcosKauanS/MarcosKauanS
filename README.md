@@ -42,5 +42,5 @@ Available for select international contracts, systems consulting, and high-throu
 
 - **Email:** [soares.marcos.kauan@gmail.com](mailto:soares.marcos.kauan@gmail.com)
 - **Timezone:** Brazil (UTC-3 / Aligned with US East Coast EST)
-- **Model:** 100% Asynchronous & Text-Driven (Slack, Discord, GitHub PRs)
+- **Model:** 100% Asynchronous & Text-Driven (Milestone & issue-based execution)
 
